@@ -9,7 +9,7 @@
 
   Cryptonite is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://asutosh04.github.io/Cryptonite/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
